@@ -1,0 +1,10 @@
+Donald Trump,Grand Old Party,Make America Great Again,1,1
+Bernie Sanders,Democrat,Feel the Bern,0,1
+Nick Ostgaard,Grand Old Party,America United,2,0
+Hillary Clinton,Democrat,Be the Change,1,2
+Ted Cruz,Grand Old Party,Reigniting the Promise of America,0,0
+Barack Obama,Democrat,Yes We Can,1,2
+George Bush,Grand Old Party,A Safer World and a More Hopeful America,2,1
+Bill Clinton,Democrat,For a Hopeful Future,1,1
+Jordan Kreuger,Grand Old Party,United We Thrive,1,0
+Martin Omalley,Democrat,American Dream For All,2,1
